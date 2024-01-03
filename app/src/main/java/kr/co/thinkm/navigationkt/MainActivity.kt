@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         naviView.setNavigationItemSelectedListener(this)
 
 
-        // 공부중1.....
+        // 공부중2.....
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
