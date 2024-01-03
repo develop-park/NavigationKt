@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         val naviView = findViewById<NavigationView>(R.id.naviView)
         naviView.setNavigationItemSelectedListener(this)
+
+        // 공부중 5
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
